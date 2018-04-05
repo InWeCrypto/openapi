@@ -1,2 +1,0 @@
-# openapi
-inwecrypto openapi website
